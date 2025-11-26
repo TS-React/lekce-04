@@ -90,4 +90,4 @@ const Product = ({ name, price }) => {
 
 ---
 
-Pokračuj samostatně na → [Cvičení na předávání na context](cviceni-ukolnicek-context.md)
+Pokračuj samostatně na → [Cvičení na context](cviceni-ukolnicek-context.md)
